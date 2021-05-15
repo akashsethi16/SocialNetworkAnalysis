@@ -1,5 +1,5 @@
 # SocialNetworkAnalysis
-A project of social network analysis where random data set is analysed and used to create network maps and graphs.
+
 
 Social Network Analysis (SNA) – sometimes called Organizational Network Analysis (ONA) – is a set of
 tools and processes for better understanding the relationships in a network. In social networks, the members
